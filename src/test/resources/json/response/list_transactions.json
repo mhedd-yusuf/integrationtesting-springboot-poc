@@ -1,0 +1,242 @@
+[
+  {
+    "id": "a8460f18-1bb5-4882-8b60-8ad4a052f77c",
+    "creditCardNumber": "5555",
+    "category": "TRANSPORT",
+    "type": "CREDIT",
+    "dateTime": "2024-01-01T03:53:01",
+    "amount": 60.92
+  },
+  {
+    "id": "35a13ae2-08a4-49f4-9797-02dff16b5470",
+    "creditCardNumber": "3333",
+    "category": "TRANSPORT",
+    "type": "CREDIT",
+    "dateTime": "2024-01-01T04:24:13",
+    "amount": 440.48
+  },
+  {
+    "id": "73a4805d-6b47-4872-b3da-c7dd5ddbeba5",
+    "creditCardNumber": "4444",
+    "category": "GROCERIES",
+    "type": "DEBIT",
+    "dateTime": "2024-01-01T10:49:04",
+    "amount": 320.7
+  },
+  {
+    "id": "42df0a4e-4ede-4167-9cce-25bf3432a8c1",
+    "creditCardNumber": "2222",
+    "category": "TRANSPORT",
+    "type": "DEBIT",
+    "dateTime": "2024-01-01T12:53:22",
+    "amount": 273.65
+  },
+  {
+    "id": "040a687b-eab6-4e46-88f4-aac8e1310fa0",
+    "creditCardNumber": "4444",
+    "category": "ENTERTAINMENT",
+    "type": "DEBIT",
+    "dateTime": "2024-01-02T09:08:52",
+    "amount": 418.27
+  },
+  {
+    "id": "5178972a-b9ba-4a44-9692-4a4c594d3e87",
+    "creditCardNumber": "1111",
+    "category": "ENTERTAINMENT",
+    "type": "CREDIT",
+    "dateTime": "2024-01-02T11:33:12",
+    "amount": 311.07
+  },
+  {
+    "id": "3a7c881f-c75e-4d49-9262-169db4349476",
+    "creditCardNumber": "4444",
+    "category": "SHOPPING",
+    "type": "DEBIT",
+    "dateTime": "2024-01-02T17:58:26",
+    "amount": 317.73
+  },
+  {
+    "id": "56ced6ce-6f6b-48ed-b7d8-8d82ed78f41a",
+    "creditCardNumber": "4444",
+    "category": "CHARITY",
+    "type": "CREDIT",
+    "dateTime": "2024-01-02T19:09:27",
+    "amount": 403.38
+  },
+  {
+    "id": "dacaa931-f434-404b-bdb6-f63c094b4c87",
+    "creditCardNumber": "4444",
+    "category": "SHOPPING",
+    "type": "DEBIT",
+    "dateTime": "2024-01-02T19:47:59",
+    "amount": 153.41
+  },
+  {
+    "id": "879bb6b1-abb4-4458-a0a0-2c2978cdcba9",
+    "creditCardNumber": "2222",
+    "category": "CHARITY",
+    "type": "CREDIT",
+    "dateTime": "2024-01-02T21:32:57",
+    "amount": 352.08
+  },
+  {
+    "id": "3422d520-c811-47bb-af36-dc40cbc7d57c",
+    "creditCardNumber": "2222",
+    "category": "SHOPPING",
+    "type": "DEBIT",
+    "dateTime": "2024-01-02T23:31:38",
+    "amount": 176.55
+  },
+  {
+    "id": "2ce880c7-79d3-4f63-a6ef-2334d6ab8a05",
+    "creditCardNumber": "4444",
+    "category": "GROCERIES",
+    "type": "DEBIT",
+    "dateTime": "2024-01-03T09:05:41",
+    "amount": 195.58
+  },
+  {
+    "id": "aecf5487-9750-4b23-9168-e832e7c30162",
+    "creditCardNumber": "1111",
+    "category": "GROCERIES",
+    "type": "DEBIT",
+    "dateTime": "2024-01-03T21:05:30",
+    "amount": 449.29
+  },
+  {
+    "id": "e1bb0f0e-11cf-4b97-8413-146b405058ba",
+    "creditCardNumber": "4444",
+    "category": "GROCERIES",
+    "type": "DEBIT",
+    "dateTime": "2024-01-04T18:31:29",
+    "amount": 153.65
+  },
+  {
+    "id": "97f607b6-1fff-4e57-b644-2f3560dedfe6",
+    "creditCardNumber": "4444",
+    "category": "ENTERTAINMENT",
+    "type": "DEBIT",
+    "dateTime": "2024-01-05T06:55:46",
+    "amount": 105.97
+  },
+  {
+    "id": "3af48058-ac48-4472-b98d-773f372456b2",
+    "creditCardNumber": "2222",
+    "category": "HOLIDAY",
+    "type": "DEBIT",
+    "dateTime": "2024-01-05T21:21:09",
+    "amount": 495.11
+  },
+  {
+    "id": "8f3e45f6-e57d-404f-8773-708dbe80c7f1",
+    "creditCardNumber": "5555",
+    "category": "HOLIDAY",
+    "type": "CREDIT",
+    "dateTime": "2024-01-06T06:55:48",
+    "amount": 193.24
+  },
+  {
+    "id": "1ecdccf3-5ae6-4ee2-89d4-0f8a4262fa52",
+    "creditCardNumber": "2222",
+    "category": "ENTERTAINMENT",
+    "type": "DEBIT",
+    "dateTime": "2024-01-06T10:33:33",
+    "amount": 72.74
+  },
+  {
+    "id": "574f064f-cb25-46f6-9976-362fd6327536",
+    "creditCardNumber": "3333",
+    "category": "ENTERTAINMENT",
+    "type": "DEBIT",
+    "dateTime": "2024-01-06T18:17:15",
+    "amount": 363.27
+  },
+  {
+    "id": "56c4d44e-3fe2-41eb-9a4e-6adb7f64c159",
+    "creditCardNumber": "1111",
+    "category": "TRANSPORT",
+    "type": "CREDIT",
+    "dateTime": "2024-01-06T19:38:07",
+    "amount": 119.01
+  },
+  {
+    "id": "2cf64371-808b-4712-9d6e-9e388265291a",
+    "creditCardNumber": "5555",
+    "category": "SHOPPING",
+    "type": "CREDIT",
+    "dateTime": "2024-01-07T01:19:55",
+    "amount": 368.98
+  },
+  {
+    "id": "84c96d4b-8835-491d-9d1a-c0db183e02a4",
+    "creditCardNumber": "1111",
+    "category": "ENTERTAINMENT",
+    "type": "CREDIT",
+    "dateTime": "2024-01-07T06:06:44",
+    "amount": 281.42
+  },
+  {
+    "id": "049f32c1-6ea6-4a83-bd93-ee8dcc869f0e",
+    "creditCardNumber": "3333",
+    "category": "SHOPPING",
+    "type": "CREDIT",
+    "dateTime": "2024-01-07T18:36:12",
+    "amount": 230.2
+  },
+  {
+    "id": "1db52fdf-1583-4434-9891-a49c15c23edb",
+    "creditCardNumber": "3333",
+    "category": "BILLS",
+    "type": "DEBIT",
+    "dateTime": "2024-01-08T22:06:48",
+    "amount": 278.68
+  },
+  {
+    "id": "a51d3bc7-da6e-4620-ae8a-63e2dd350866",
+    "creditCardNumber": "4444",
+    "category": "GROCERIES",
+    "type": "CREDIT",
+    "dateTime": "2024-01-08T23:51:52",
+    "amount": 420.03
+  },
+  {
+    "id": "05ad89c5-7ea3-4358-9474-e9803103576a",
+    "creditCardNumber": "4444",
+    "category": "SHOPPING",
+    "type": "DEBIT",
+    "dateTime": "2024-01-09T04:06:41",
+    "amount": 244.59
+  },
+  {
+    "id": "0fd12f3a-7225-409a-bb7e-37da658ad5ed",
+    "creditCardNumber": "5555",
+    "category": "BILLS",
+    "type": "DEBIT",
+    "dateTime": "2024-01-09T15:40:04",
+    "amount": 118.97
+  },
+  {
+    "id": "7be91506-ea84-4a83-930e-da7d80903f72",
+    "creditCardNumber": "4444",
+    "category": "HOLIDAY",
+    "type": "CREDIT",
+    "dateTime": "2024-01-10T04:55:04",
+    "amount": 348.88
+  },
+  {
+    "id": "df1b9840-b2dc-4a8a-9818-f4682970f891",
+    "creditCardNumber": "3333",
+    "category": "CHARITY",
+    "type": "DEBIT",
+    "dateTime": "2024-01-10T08:53:12",
+    "amount": 53.96
+  },
+  {
+    "id": "2c5f39be-c210-4928-b9b8-886d50126520",
+    "creditCardNumber": "1111",
+    "category": "BILLS",
+    "type": "CREDIT",
+    "dateTime": "2024-01-10T08:58:12",
+    "amount": 446.01
+  }
+]

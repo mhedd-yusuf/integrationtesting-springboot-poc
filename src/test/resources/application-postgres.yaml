@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: integrationtesting-springboot-poc
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    defer-datasource-initialization: true
+    hibernate:
+      ddl-auto: create
+  h2:
+    console:
+      enabled: true
